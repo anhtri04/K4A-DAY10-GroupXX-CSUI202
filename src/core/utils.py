@@ -25,6 +25,11 @@ def write_csv(df, path: Path) -> None:
     df.to_csv(path, index=False)
 
 
+def dataframe_records(df) -> list[dict[str, Any]]:
+    """Convert a dataframe into JSON-native records without numpy scalar leakage."""
+    return json.loads(df.to_json(orient="records", date_format="iso"))
+
+
 def write_text(path: Path, text: str) -> None:
     ensure_parent(path)
     path.write_text(text, encoding="utf-8")

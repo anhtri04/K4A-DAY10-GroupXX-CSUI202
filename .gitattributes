@@ -1,0 +1,3 @@
+# ChromaDB index segments are binary, including small metadata files that may
+# otherwise be mistaken for text when core.autocrlf is enabled on Windows.
+data/chroma/** binary

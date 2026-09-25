@@ -1,0 +1,5 @@
+Title: Advanced Perspectives on Hybrid Search Architectures: Combining BM25 with Dense Representations
+Authors: Dat Tran, Lan Pham
+Published: 2026-06-11
+Categories: Information Retrieval, Algorithms
+Summary: main QA requires robust metrics. We benchmark semantic similarity, token-level overlap F1, and model-based judge verdicts to quantify RAG answer correctness across noisy corpus conditions.ÿÿÿÿ
