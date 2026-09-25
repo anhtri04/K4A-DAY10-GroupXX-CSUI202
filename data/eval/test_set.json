@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eval_001",
+    "question_type": "summary",
+    "question": "What is the summary of the paper 'Evaluating Retrieval Precision with Token F1 and LLM Judges'?",
+    "ground_truth": "Evaluating open-domain QA requires robust metrics.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671805"
+    ]
+  },
+  {
+    "id": "eval_002",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Chunking Strategies for Technical Documentation Retrieval'?",
+    "ground_truth": "Long Trinh, Ha Chu",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671809"
+    ]
+  },
+  {
+    "id": "eval_003",
+    "question_type": "date",
+    "question": "When was the paper 'Agentic Retrieval-Augmented Generation for Knowledge-Intensive Tasks' published?",
+    "ground_truth": "2026-05-20",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671801"
+    ]
+  },
+  {
+    "id": "eval_004",
+    "question_type": "categories",
+    "question": "What categories does the paper 'Advanced Perspectives on Data Observability and Quality Gates for Production RAG Systems' belong to?",
+    "ground_truth": "Software Engineering, Data Systems",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671814"
+    ]
+  },
+  {
+    "id": "eval_005",
+    "question_type": "summary",
+    "question": "What is the summary of the paper 'Advanced Perspectives on Evaluating Retrieval Precision with Token F1 and LLM Judges'?",
+    "ground_truth": "An extended empirical study on valuating open-domain QA requires robust metrics.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671817"
+    ]
+  },
+  {
+    "id": "eval_006",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Advanced Perspectives on Synthetic Corruption Testing: Stress-Testing Vector Search Robustness'?",
+    "ground_truth": "Kien Duong, Vy Ly",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671819"
+    ]
+  },
+  {
+    "id": "eval_007",
+    "question_type": "date",
+    "question": "When was the paper 'Advanced Perspectives on Multi-Agent Consensus for High-Stakes Fact Verification' published?",
+    "ground_truth": "2026-06-08",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671820"
+    ]
+  },
+  {
+    "id": "eval_008",
+    "question_type": "categories",
+    "question": "What categories does the paper 'Advanced Perspectives on Hybrid Search Architectures: Combining BM25 with Dense Representations' belong to?",
+    "ground_truth": "Information Retrieval, Algorithms",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671823"
+    ]
+  },
+  {
+    "id": "eval_009",
+    "question_type": "summary",
+    "question": "What is the summary of the paper 'Advanced Perspectives on Continuous Benchmark Evaluation for Enterprise Retrieval Pipelines'?",
+    "ground_truth": "An extended empirical study on tatic benchmarks fail to capture domain drift in enterprise knowledge bases.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671824"
+    ]
+  },
+  {
+    "id": "eval_010",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Multi-Agent Consensus for High-Stakes Fact Verification'?",
+    "ground_truth": "Phong Vu, Ngan Hoang",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671808"
+    ]
+  }
+]
